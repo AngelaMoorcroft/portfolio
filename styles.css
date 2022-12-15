@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap'); 
+
 .top-box {
+    font-family: 'Quicksand';
     border-radius: 5px;
     background: #e0e0e0;
     box-shadow:  27px -27px 75px #b5b5b5,
                 -27px 27px 75px #ffffff;
+    padding: 5px;
 }
