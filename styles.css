@@ -12,6 +12,9 @@
                 -10px 10px 50px #ffffff;
     padding: 5px;
     margin: 5px;
+    text-align: center;
+    /* justify-content: center; */
+    position: relative;
 }
 
 .top-box {
@@ -31,3 +34,4 @@
     padding: 5px;
     margin: 5px;
 }
+
