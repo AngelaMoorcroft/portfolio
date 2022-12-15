@@ -1,10 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap'); 
 
-.top-box {
+* {
     font-family: 'Quicksand';
+}
+
+.head-box {
     border-radius: 5px;
     background: #e0e0e0;
-    box-shadow:  27px -27px 75px #b5b5b5,
-                -27px 27px 75px #ffffff;
+    /* box-shadow:  27px -27px 75px #b5b5b5,
+                -27px 27px 75px #ffffff; */
     padding: 5px;
+    margin: 5px;
+}
+
+.top-box {
+    border-radius: 5px;
+    background: #e0e0e0;
+    /* box-shadow:  27px -27px 75px #b5b5b5,
+                -27px 27px 75px #ffffff; */
+    padding: 5px;
+    margin: 5px;
+}
+
+.middle-box {
+    border-radius: 5px;
+    background: #e0e0e0;
+    /* box-shadow:  27px -27px 75px #b5b5b5,
+                -27px 27px 75px #ffffff; */
+    padding: 5px;
+    margin: 5px;
 }
