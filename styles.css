@@ -2,13 +2,14 @@
 
 * {
     font-family: 'Quicksand';
+    /* background-color: #e0e0e0; */
 }
 
 .head-box {
     border-radius: 5px;
     background: #e0e0e0;
-    /* box-shadow:  27px -27px 75px #b5b5b5,
-                -27px 27px 75px #ffffff; */
+    box-shadow:  10px -10px 50px #b5b5b5,
+                -10px 10px 50px #ffffff;
     padding: 5px;
     margin: 5px;
 }
@@ -16,8 +17,8 @@
 .top-box {
     border-radius: 5px;
     background: #e0e0e0;
-    /* box-shadow:  27px -27px 75px #b5b5b5,
-                -27px 27px 75px #ffffff; */
+    box-shadow:  10px -10px 50px #b5b5b5,
+                -10px 10px 50px #ffffff;
     padding: 5px;
     margin: 5px;
 }
@@ -25,8 +26,8 @@
 .middle-box {
     border-radius: 5px;
     background: #e0e0e0;
-    /* box-shadow:  27px -27px 75px #b5b5b5,
-                -27px 27px 75px #ffffff; */
+    box-shadow:  10px -10px 50px #b5b5b5,
+                -10px 10px 50px #ffffff;
     padding: 5px;
     margin: 5px;
 }
